@@ -1,4 +1,4 @@
 # VAC
 
 # OUTPUT
-![tan_card](https://github.com/TaniaPaulson/VAC/assets/138148075/fb881fc0-7df3-4b3c-b171-dd49ce4f9e86)
+![tan_card1](https://github.com/TaniaPaulson/VAC/assets/138148075/166bd930-d7c3-4ef2-9130-92eb88c47452)
